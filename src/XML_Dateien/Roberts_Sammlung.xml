@@ -1,0 +1,409 @@
+<rezeptbuch>
+  <rezept>
+    <gericht>Tortellini alla panna</gericht>
+    <zutat>
+      <menge>500</menge>
+      <masseinheit>g</masseinheit>
+      <name>Tortellini</name>
+    </zutat>
+    <zutat>
+      <menge>600</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Sahne</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>g</masseinheit>
+      <name>Schinken</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>Stueck</masseinheit>
+      <name>Eigelb</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>g</masseinheit>
+      <name>Parmesan</name>
+    </zutat>
+    <zutat>
+      <menge>3</menge>
+      <masseinheit>Gramm</masseinheit>
+      <name>Muskat</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>gramm</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>20</menge>
+      <masseinheit>g</masseinheit>
+      <name>Butter</name>
+    </zutat>
+    <kategorie>Hauptspeise,schnelles Essen</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Die Tortellinis nach Packungsanweisung kochen.
+Den gekochten Schinken in einer tiefen Pfanne mit Butter kurz anbraten, dann 400ml von der Sahne hineingeben und auf kleiner Stufe köcheln lassen. Wenn die Tortellini gar sind, in die Pfanne zur Schinkensahne geben und weiter köcheln lassen.
+In der Zwischenzeit in einer kleinen Schüssel das Eigelb, den Parmesan, Muskatnuss, Salz und die restliche 200 ml Sahne verrühren, dann in die Pfanne zu den Tortellinis geben und so lange köcheln lassen, bis die Soße dickflüssig wird. Sofort servieren. 
+Sehr gehaltvoll, aber der Geschmack ist fantastisch. Ab und zu kann man sich´s mal gönnen.</zubereitung>
+    <beschreibung>Simpel, schnell und lecker!</beschreibung>
+    <zubereitungszeit>ca. 20 Min.</zubereitungszeit>
+  </rezept>
+  <rezept>
+    <gericht>Zigeunerschnitzel</gericht>
+    <zutat>
+      <menge>4</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Schweineschnitzel</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Pfeffer</name>
+    </zutat>
+    <zutat>
+      <menge>25</menge>
+      <masseinheit>g</masseinheit>
+      <name>Butter</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Zwiebeln</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>sueck</masseinheit>
+      <name>Paprika</name>
+    </zutat>
+    <zutat>
+      <menge>4</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Frühlingszwiebeln</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Weißwein</name>
+    </zutat>
+    <zutat>
+      <menge>300</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Bratensoße</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Tomatenketchup</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Gewürzgurke</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Paprikagewürz</name>
+    </zutat>
+    <kategorie>Hauptspeise</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Die Schnitzel waschen, trocken tupfen, etwas klopfen und mit den Gewürzen bestreuen. Im erhitzten Butterschmalz braten, herausnehmen und warm stellen.
+
+Für die Soße die Zwiebeln schälen, fein würfeln, ins verbliebene Bratfett geben und glasig anschwitzen. Die Paprikaschoten halbieren, entkernen, waschen, in Streifen schneiden, dazugeben und kurz mitbraten. Die Frühlingszwiebeln putzen, waschen, in mundgerechte Stücke schneiden, dazugeben, kurz mitschwitzen. 
+
+Das Ganze mit Wein ablöschen und mit Bratensoße auffüllen. Die Soße zum Kochen bringen, das Ketchup oder die Tomatensoße einrühren, die fein gewürfelten Essiggurken dazugeben, etwa 8 Minuten köcheln lassen, mit Paprikapulver, Salz und Pfeffer abschmecken. 
+
+Die Schnitzel mit der Soße anrichten und mit bissfestem Reis servieren. Am besten schmeckt es mit der selbst gemachten Tomatensoße anstatt Fertigketchup.</zubereitung>
+<beschreibung>Dazu passt am besten ein Krautsalat mit Möhrenstreifen.</beschreibung>
+    <zubereitungszeit>ca. 10 Min.</zubereitungszeit>
+  </rezept>
+  <rezept>
+    <gericht>Gemüsesuppe</gericht>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Zwiebeln</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Knoblauchzehen</name>
+    </zutat>
+    <zutat>
+      <menge>750</menge>
+      <masseinheit>g</masseinheit>
+      <name>Kartoffeln</name>
+    </zutat>
+    <zutat>
+      <menge>250</menge>
+      <masseinheit>g</masseinheit>
+      <name>Möhren</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Oel</name>
+    </zutat>
+    <zutat>
+      <menge>20</menge>
+      <masseinheit>Gramm</masseinheit>
+      <name>Gemüsebrühe (instant)</name>
+    </zutat>
+    <zutat>
+      <menge>4</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Lachsfilet</name>
+    </zutat>
+    <zutat>
+      <menge>400</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Kokosmilch</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>g</masseinheit>
+      <name>Erbsen</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Tabasco</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>g</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Pfeffer</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Limettensaft</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>g</masseinheit>
+      <name>Petersilie</name>
+    </zutat>
+    <kategorie>Hauptspeise,schnelles Essen</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Falls TK-Lachs verwendet wird, diesen zunächst im Kühlschrank auftauen lassen. 
+
+Zwiebeln und Knoblauch schälen und beides sehr fein würfeln. Kartoffeln und Möhren ebenfalls schälen und in ca. 1 cm große Würfel schneiden. 
+
+In einem ausreichend großen Topf das Olivenöl erhitzen und die Zwiebel- und Knoblauchwürfel darin leicht Farbe nehmen lassen. Kartoffel- und Möhrenwürfel dazugeben, kurz mit anbraten und mit 1 l heißer Gemüsebrühe ablöschen (ich verwende immer Bio-Gemüsebrühenpulver ohne Zusatzstoffe). Das Ganze ca. 12-15 Minuten köcheln lassen. 
+
+In der Zwischenzeit das Lachsfilet in mundgerechte Würfel schneiden. Zusammen mit der Kokosmilch und den Erbsen zur Suppe geben und erneut aufkochen lassen. Bei geringer Temperatur ca. 5-7 Minuten ziehen lassen, bis die Erbsen weich sind und der Fisch gar ist. Mit einem Spritzer Tabasco, Salz und frisch gemahlenem Pfeffer würzen und mit ein bis zwei Spritzern Limettensaft abschmecken. 
+
+Wer mag, kann die Suppe noch zusätzlich mit einem kleinen Spritzer Austern- oder Fischsauce (aus dem Asia-Markt) verfeinern. Mit frisch gezupfter, glatter Petersilie dekorieren und sofort servieren. Die Suppe ist genau das richtige für kalte Tage, dazu ist sie sehr einfach herzustellen und schnell gemacht. 
+
+Man kann auch toll variieren und statt Lachs oder Wildlachs auch mal weißes Fischfilet oder Hühnerbruststücke verwenden. Wer lieber eine Cremesuppe möchte, püriert die Suppe, bevor er Kokosmilch, Erbsen und Fisch zugibt.</zubereitung>
+    <beschreibung>Schnelle Gemüsesuppe mit Kokosmilch und Lachswürfeln</beschreibung>
+    <zubereitungszeit>ca. 20 Min.</zubereitungszeit>
+  </rezept>
+  <rezept>
+    <gericht>Puterrouladen</gericht>
+    <zutat>
+      <menge>8</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Putenschnitzel</name>
+    </zutat>
+    <zutat>
+      <menge>8</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Schinkenscheiben</name>
+    </zutat>
+    <zutat>
+      <menge>8</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Goudascheiben</name>
+    </zutat>
+    <zutat>
+      <menge>40</menge>
+      <masseinheit>g</masseinheit>
+      <name>gehackte Kräuter</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Sahne</name>
+    </zutat>
+    <zutat>
+      <menge>20</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Oel</name>
+    </zutat>
+    <zutat>
+      <menge>40</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Bier</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>g</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Pfeffer</name>
+    </zutat>
+    <kategorie>Hauptspeise</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Die Putenschnitzel etwas dünner klopfen und mit Salz würzen. Jeweils eine Scheibe Schinken und Käse darauf legen und mit gehackten Kräutern bestreuen. Das Fleisch aufrollen und mit Zahnstochern fixieren.
+
+Etwas Öl in die Pfanne geben und die Rouladen auf jeder Seite goldbraun anbraten. Mit etwas Bier ablöschen, den Deckel auf die Pfanne geben und 10 Minuten braten lassen. Mit Schlagsahne aufgießen und mit Salz und Pfeffer würzen. 10-15 Minuten einkochen lassen. Die restlichen Kräuter in die Schlagsahne geben.</zubereitung>
+    <beschreibung>Dazu passen Kartoffeln und Gemüse.</beschreibung>
+    <zubereitungszeit>ca. 40 Min.</zubereitungszeit>
+  </rezept>
+  <rezept>
+    <gericht>Gyros mit Metaxasauce</gericht>
+    <zutat>
+      <menge>500</menge>
+      <masseinheit>gramm</masseinheit>
+      <name>Hähnchenbrustfilet</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Paprika</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Sahne</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>g</masseinheit>
+      <name>Schmand</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Metaxa</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>Gramm</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Pfeffer</name>
+    </zutat>
+    <zutat>
+      <menge>30</menge>
+      <masseinheit>g</masseinheit>
+      <name>Tomatenmark</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Zucker</name>
+    </zutat>
+    <zutat>
+      <menge>200</menge>
+      <masseinheit>g</masseinheit>
+      <name>Käse</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Zwiebeln</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Paprikagewürz</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>stueck</masseinheit>
+      <name>Knoblauchzehen</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>Pck.</masseinheit>
+      <name>Griechische Gewürzmischung</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Oel</name>
+    </zutat>
+    <kategorie>Hauptspeise,schnelles Essen</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Das Fleisch in feine Streifen schneiden und in etwas Öl und griechischem Gewürz marinieren - kann man auch gut am Vortag machen. Zwiebel kleinschneiden und in wenig Öl anbraten, Paprikaschoten waschen und in Würfel schneiden, Champignons putzen und auch in Würfel schneiden. Das Gemüse zur Zwiebel geben, solange auf kleiner Flamme köcheln lassen, bis die ganze Flüssigkeit verdampft ist, zwischendurch salzen und pfeffern. 
+
+In einer anderen Pfanne das Fleisch ohne zusätzliches Fett scharf anbraten, dann die Gemüsemischung dazugeben. Schmand, Sahne, Tomatenmark und Metaxa dazugeben, alles 1 Min köcheln lassen und dabei abschmecken.
+
+Backofen in der Zwischenzeit auf 200° vorheizen. Die Fleischmischung in eine Auflaufform geben und mit Käse bestreuen. Ca. 20 Min überbacken bis der Käse goldbraun wird.</zubereitung>
+    <beschreibung>Dazu passt Reis und Zaziki.</beschreibung>
+    <zubereitungszeit>ca. 30 Min.</zubereitungszeit>
+  </rezept>
+  <rezept>
+    <gericht>Alpenschmaus</gericht>
+    <zutat>
+      <menge>800</menge>
+      <masseinheit>gramm</masseinheit>
+      <name>Gnocchi</name>
+    </zutat>
+    <zutat>
+      <menge>15</menge>
+      <masseinheit>g</masseinheit>
+      <name>Butter</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>g</masseinheit>
+      <name>Käse</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>g</masseinheit>
+      <name>Speck</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>g</masseinheit>
+      <name>Schnittlauch</name>
+    </zutat>
+    <zutat>
+      <menge>10</menge>
+      <masseinheit>Gramm</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <zutat>
+      <menge>5</menge>
+      <masseinheit>g</masseinheit>
+      <name>Pfeffer</name>
+    </zutat>
+    <zutat>
+      <menge>3</menge>
+      <masseinheit>g</masseinheit>
+      <name>Muskat</name>
+    </zutat>
+    <kategorie>Hauptspeise</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Backofen auf Grillfunktion vorheizen (250°C).
+Das Fett in einer beschichteten Pfanne erhitzen und die Gnocchi darin goldbraun braten. Mit Salz, Pfeffer und Muskat würzen und in einer flachen Auflaufform verteilen.
+Den Käse grob reiben und darüber streuen.
+Im Ofen kurz überbacken bis der Käse zerlaufen ist. Die Speckscheiben darauf legen und noch einmal kurz in den Ofen geben.
+Schnittlauch in Röllchen schneiden und über die fertigen Gnocchi streuen.</zubereitung>
+    <beschreibung>Simpel</beschreibung>
+    <zubereitungszeit>ca. 15 Min.</zubereitungszeit>
+  </rezept>
+</rezeptbuch>

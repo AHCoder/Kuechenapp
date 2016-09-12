@@ -1,0 +1,97 @@
+<rezeptbuch>
+<rezept>
+<gericht>Lasagne</gericht>
+<zutat>
+<menge>400.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Lasagneplatte</name>
+</zutat>
+<zutat>
+<menge>500.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Hackfleisch vom Rind</name>
+</zutat>
+<zutat>
+<menge>250.0</menge>
+<masseinheit>MILLILITER</masseinheit>
+<name>Rotwein</name>
+</zutat>
+<zutat>
+<menge>500.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>passierte Tomate(n)</name>
+</zutat>
+<zutat>
+<menge>150.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>zweibeln(n)</name>
+</zutat>
+<zutat>
+<menge>2.0</menge>
+<masseinheit>STUECK</masseinheit>
+<name>Knoblauchzehe</name>
+</zutat>
+<zutat>
+<menge>5.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Tomatenmark</name>
+</zutat>
+<zutat>
+<menge>45.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Butter</name>
+</zutat>
+<zutat>
+<menge>15.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Mehl</name>
+</zutat>
+<zutat>
+<menge>500.0</menge>
+<masseinheit>MILLILITER</masseinheit>
+<name>Milch</name>
+</zutat>
+<zutat>
+<menge>200.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Sahne</name>
+</zutat>
+<zutat>
+<menge>250.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Parmesan</name>
+</zutat>
+<zutat>
+<menge>15.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Olivenoel</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>PAECKCHEN</masseinheit>
+<name>Oregano</name>
+</zutat>
+<zutat>
+<menge>3.0</menge>
+<masseinheit>PRISE</masseinheit>
+<name>Salz</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>PRISE</masseinheit>
+<name>Pfeffer</name>
+</zutat>
+<kategorie>Hauptgericht,FeinSchmecker</kategorie>
+<portionenzahl>3</portionenzahl>
+<zubereitung>So geht’s: 
+1. Vorbereitung: Zwiebel fein würfeln, Knoblauch fein hacken oder pressen. In einem flachen Topf das Rinderhackfleisch in 2 EL Olivenöl anbraten, die Zwiebelwürfel, den Knoblauch und das Tomatenmark zufügen und kurz weiterbraten. Mit dem Rotwein ablöschen und die passierten Tomaten zugeben. So lange einkochen, bis die Soße dickflüssig ist. 
+
+2. In einem weiteren Topf die Butter schmelzen. Mehl, Salz und Pfeffer hinzufügen und glatt rühren. Vom Herd nehmen, salzen und pfeffern. Die Milch und die Sahne nach und nach einrühren, aufkochen und 10 Minuten unter ständigem Rühren bei schwacher Hitze köcheln.
+
+3. Zubereitung: Eine Auflaufform mit dem restlichen Olivenöl einpinseln. 200 ml der weißen Soße und 100 g Parmesan zur Seite stellen. Den Boden mit einer Lage Lasagneplatten belegen und gleichmäßig mit der weißen Soße bedecken. Darauf eine dünne Schicht Hackfleisch-Tomaten-Masse verteilen und mit Parmesankäse bestreuen. Schicht für Schicht so fortfahren, bis die Zutaten aufgebraucht sind. Nun die beiseite gestellte weiße Soße auf die oberste Schicht aufbringen und mit dem restlichen Parmesan bestreuen.
+
+4. Lasagne auf der Einschubebene 2 im Programm „INTERVALL-Dampf“ bei 160 °C für 70 Minuten garen. Die Oberfläche wird hierbei goldbraun. Für eine kräftigere Bräunung im Programm „Grillstufe 1“ nach Gusto nachgratinieren.</zubereitung>
+<beschreibung>Das ist voll lecker!</beschreibung>
+<zubereitungszeit>Arbeitszeit: ca. 30 Min. / Koch-/Backzeit: ca. 1 Std. 10 Min.</zubereitungszeit>
+</rezept>
+</rezeptbuch>

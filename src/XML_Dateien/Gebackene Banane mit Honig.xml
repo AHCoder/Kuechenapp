@@ -1,0 +1,52 @@
+<rezeptbuch>
+	<rezept>
+		<gericht>Gebackene Banane mit Honig</gericht>
+		<zutat>
+			<menge>2</menge>
+			<masseinheit>Stueck</masseinheit>
+			<name>Banane</name>
+		</zutat>
+		<zutat>
+			<menge>80</menge>
+			<masseinheit>g</masseinheit>
+			<name>Mehl</name>
+		</zutat>
+		<zutat>
+			<menge>5</menge>
+			<masseinheit>g</masseinheit>
+			<name>Backpulver</name>
+		</zutat>
+		<zutat>
+			<menge>1</menge>
+			<masseinheit>Prise</masseinheit>
+			<name>Salz</name>
+		</zutat>
+		<zutat>
+			<menge>10</menge>
+			<masseinheit>g</masseinheit>
+			<name>Zucker</name>
+		</zutat>
+		<zutat>
+			<menge>50</menge>
+			<masseinheit>ml</masseinheit>
+			<name>Wasser</name>
+		</zutat>
+		<zutat>
+			<menge>10</menge>
+			<masseinheit>ml</masseinheit>
+			<name>Oel</name>
+		</zutat>
+		<zutat>
+			<menge>100</menge>
+			<masseinheit>ml</masseinheit>
+			<name>Honig</name>
+		</zutat>
+		<kategorie>Süßspeise, Chinesisch</kategorie>
+		<portionenzahl>2</portionenzahl>
+		<zubereitung>Mehl, Backpulver, Salz und Zucker in einer kleinen Schüssel vermischen Wasser dazugeben und zu einem dickflüssgen Teig verrühren (Wasser kann auch um 1-2EL variieren, je nach Mehltyp).
+
+Die Banenen in dicke Scheiben schneiden und stückweise durch den Teig ziehen und direkt danach in die Pfanne oder Firtteuse mit heißem Öl geben und ca. 2 Minuten frittieren, bis sie goldbraun sind. Anschließend kurz auf Küchenpapier abtropfen lassen, dann auf Teller und mit Honig beträufeln und genießen.</zubereitung>
+		<beschreibung>Wie beim Chinesen um die Ecke, einfach lecker.</beschreibung>
+		<zubereitungszeit>12 Minuten</zubereitungszeit>
+	</rezept>
+</rezeptbuch>

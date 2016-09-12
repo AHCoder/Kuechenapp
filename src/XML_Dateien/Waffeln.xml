@@ -1,0 +1,50 @@
+<rezeptbuch>
+  <rezept>
+    <gericht>Waffeln</gericht>
+    <zutat>
+      <menge>300</menge>
+      <masseinheit>g</masseinheit>
+      <name>Mehl</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>g</masseinheit>
+      <name>Butter</name>
+    </zutat>
+    <zutat>
+      <menge>100</menge>
+      <masseinheit>g</masseinheit>
+      <name>Zucker</name>
+    </zutat>
+    <zutat>
+      <menge>2</menge>
+      <masseinheit>TL</masseinheit>
+      <name>Backpulver</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>Pck.</masseinheit>
+      <name>Vanillezucker</name>
+    </zutat>
+    <zutat>
+      <menge>3</menge>
+      <masseinheit>Stück</masseinheit>
+      <name>Eier</name>
+    </zutat>
+    <zutat>
+      <menge>150</menge>
+      <masseinheit>ml</masseinheit>
+      <name>Milch</name>
+    </zutat>
+    <zutat>
+      <menge>1</menge>
+      <masseinheit>Prise</masseinheit>
+      <name>Salz</name>
+    </zutat>
+    <kategorie>Süßspeisen</kategorie>
+    <portionenzahl>4</portionenzahl>
+    <zubereitung>Die flüssige Butter, die lauwarme Milch und die Eier miteinander verquirlen. Nach und nach die restlichen Zutaten dazugeben und zu einem glatten Teig verrühren.</zubereitung>
+    <beschreibung></beschreibung>
+    <zubereitungszeit>etwa 30 min. (inkl. Backen)</zubereitungszeit>
+  </rezept>
+</rezeptbuch>

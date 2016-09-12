@@ -1,0 +1,69 @@
+<rezeptbuch>
+<rezept>
+<gericht>Afrikanischer Kochbananen-Champignon-Topf</gericht>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>STUECK</masseinheit>
+<name>Banane</name>
+</zutat>
+<zutat>
+<menge>5.0</menge>
+<masseinheit>STUECK</masseinheit>
+<name>Kartoffel</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>STUECK</masseinheit>
+<name>Zwiebel</name>
+</zutat>
+<zutat>
+<menge>150.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Champignon</name>
+</zutat>
+<zutat>
+<menge>400.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>Tomate</name>
+</zutat>
+<zutat>
+<menge>200.0</menge>
+<masseinheit>MILLILITER</masseinheit>
+<name>Kokosmilch</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>STUECK</masseinheit>
+<name>Chillichote</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>PRISE</masseinheit>
+<name>Salz</name>
+</zutat>
+<zutat>
+<menge>1.0</menge>
+<masseinheit>PRISE</masseinheit>
+<name>Pfeffer</name>
+</zutat>
+<zutat>
+<menge>10.0</menge>
+<masseinheit>GRAMM</masseinheit>
+<name>afrikanische Gewürzmischung</name>
+</zutat>
+<zutat>
+<menge>5.0</menge>
+<masseinheit>MILLILITER</masseinheit>
+<name>Oel</name>
+</zutat>
+<kategorie>Vorspeise,FeinSchmecker</kategorie>
+<portionenzahl>4</portionenzahl>
+<zubereitung>Die Zwiebel fein, die Kochbanane, die Kartoffeln und die Champignons in ca. 1 cm große Stücke würfeln. Die Chili in feine Ringe schneiden. 
+
+Das Öl in einem großen Topf erhitzen. Die Zwiebeln glasig anbraten. Tomaten und Gewürze zugeben und 3 min. auf mittlerer Hitze offen kochen. Kokosmilch und Kartoffeln zugeben und 3 min. weiterkochen. 
+
+Nun die Kochbanane und die Champignons zugeben und mit geschlossenem Deckel auf kleiner bis mittlerer Hitze 10 – 15 min. kochen. Die Chili unterrühren und servieren. </zubereitung>
+<beschreibung>lecker lecker</beschreibung>
+<zubereitungszeit>Arbeitszeit: ca. 10 Min. / Koch-/Backzeit: ca. 20 Min.</zubereitungszeit>
+</rezept>
+</rezeptbuch>
